@@ -1,0 +1,27 @@
+_repo: Door-NoorwegenDe-Aarde-en-haar-Volken-1908_20876
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bosch, G.
+    gutenberg_agent_id: '5323'
+    url: http://www.gutenberg.org/2009/agents/5323
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2007-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20876'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Description and travel'
+- !lcc 'DL'
+title: 'Door Noorwegen
+
+  De Aarde en haar Volken, 1908'
+url: http://www.gutenberg.org/ebooks/20876
